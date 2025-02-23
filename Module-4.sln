@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FavoriteColor", "FavoriteCo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FavoriteColorArray", "FavoriteColorArray\FavoriteColorArray.csproj", "{6FEB10AD-02FB-4313-838C-8DAACA9D38DF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NameArray", "NameArray\NameArray.csproj", "{341AB636-2491-47C5-B688-6D7829719977}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2DArray", "2DArray\2DArray.csproj", "{3000F2C4-915C-44BB-9818-B1E584F84652}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{6FEB10AD-02FB-4313-838C-8DAACA9D38DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6FEB10AD-02FB-4313-838C-8DAACA9D38DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6FEB10AD-02FB-4313-838C-8DAACA9D38DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{341AB636-2491-47C5-B688-6D7829719977}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{341AB636-2491-47C5-B688-6D7829719977}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{341AB636-2491-47C5-B688-6D7829719977}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{341AB636-2491-47C5-B688-6D7829719977}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3000F2C4-915C-44BB-9818-B1E584F84652}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3000F2C4-915C-44BB-9818-B1E584F84652}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3000F2C4-915C-44BB-9818-B1E584F84652}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3000F2C4-915C-44BB-9818-B1E584F84652}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

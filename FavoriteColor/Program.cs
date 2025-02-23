@@ -18,8 +18,13 @@
                     Console.ForegroundColor = ConsoleColor.Black;
                     Console.WriteLine("Your favorite color is green!");
                     break;
-                default:
+                case "cyan":
                     Console.BackgroundColor = ConsoleColor.Cyan;
+                    Console.ForegroundColor = ConsoleColor.Black;
+                    Console.WriteLine($"Your favorite color is {color}!");
+                    break;
+                default:
+                    Console.BackgroundColor = ConsoleColor.Yellow;
                     Console.ForegroundColor = ConsoleColor.Black;
                     Console.WriteLine($"Your favorite color is {color}!");
                     break;

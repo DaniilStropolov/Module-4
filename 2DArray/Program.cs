@@ -11,7 +11,7 @@
             {
                 Console.Write(number + " ");
             }
-            Console.WriteLine("\n\nДлина массива: " + numbers.Length);
+            Console.WriteLine("\n\nДлина массива: " + numbers.Length + " элементов");
         }
     }
 }

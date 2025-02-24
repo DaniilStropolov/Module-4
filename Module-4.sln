@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayPositiveNumbers", "Arr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2DArrayPositiveNumbers", "2DArrayPositiveNumbers\2DArrayPositiveNumbers.csproj", "{4E2D44C0-FC34-497F-93D0-C0D33738CD86}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TupleQuestionnaire", "TupleQuestionnaire\TupleQuestionnaire.csproj", "{3F0E9DE8-D470-406A-ABAB-0DF7A716E073}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{4E2D44C0-FC34-497F-93D0-C0D33738CD86}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4E2D44C0-FC34-497F-93D0-C0D33738CD86}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4E2D44C0-FC34-497F-93D0-C0D33738CD86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F0E9DE8-D470-406A-ABAB-0DF7A716E073}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F0E9DE8-D470-406A-ABAB-0DF7A716E073}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F0E9DE8-D470-406A-ABAB-0DF7A716E073}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F0E9DE8-D470-406A-ABAB-0DF7A716E073}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

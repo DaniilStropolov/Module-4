@@ -1,10 +1,10 @@
-﻿namespace ArrayPositiveNumbers
+﻿namespace _2DArrayPositiveNumbers
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            int[] numbers = { -1, 2, 3, -5, 6, 7, 8, 9, -8, 11, 0, -13 };
+            int[,] numbers = { { -5, 6, 9, 1, 2, -3 }, { -8, 8, 1, 1, 2, -3 } };
             int positiveNumbers = 0;
             foreach (int number in numbers)
             {
@@ -13,7 +13,7 @@
                     positiveNumbers++;
                 }
             }
-            Console.WriteLine("Количество положительных чисел в массиве: " + positiveNumbers);
+            Console.WriteLine("Количество положительных чисел в двумерном массиве: " + positiveNumbers);
         }
     }
 }
